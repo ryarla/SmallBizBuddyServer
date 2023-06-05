@@ -14,8 +14,6 @@ services:
       # will be promtped to add this in the UI on deployment
       - key: OPENAI_API_KEY
         sync: false
-      - key: ZILLIZ_COLLECTION
-        sync: false
       - key: ZILLIZ_URI
         sync: false
       - key: ZILLIZ_USER
