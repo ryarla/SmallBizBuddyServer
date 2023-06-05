@@ -9,7 +9,7 @@ To run this script from the terminal, navigate to this folder and use the follow
 ```
 python process_jsonl.py --filepath path/to/file_dump.jsonl --custom_metadata '{"source": "email"}' --screen_for_pii True --extract_metadata True
 
-python process_jsonl.py --chunked_data.jsonl --custom_metadata '{"last_updated": "06/01/2023"}' --screen_for_pii False --extract_metadata True
+python process_jsonl.py --filepath chunked_data_url.jsonl --extract_metadata True
 ```
 
 where:

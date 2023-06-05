@@ -1,6 +1,6 @@
 openapi: 3.0.2
 info:
-  title: SmallBizBuddy Plugin API
+  title: SmallBizBuddy API
   description: A retrieval API for querying and filtering small business related information based on natural language queries and metadata
   version: 1.0.0
   servers:
@@ -123,7 +123,7 @@ components:
         top_k:
           title: Top K
           type: integer
-          default: 3
+          default: 5
     QueryRequest:
       title: QueryRequest
       required:
