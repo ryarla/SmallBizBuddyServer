@@ -1,9 +1,9 @@
 {
   "schema_version": "v1",
   "name_for_model": "SmallBizBuddy",
-  "name_for_human": "SmallBizBuddy Plugin",
+  "name_for_human": "SmallBizBuddy",
   "description_for_model": "Plugin for looking up products, services, and resources offered by Wells Fargo for small businesses, along with up to date (from June 2023) tax and business deductions information from IRS.gov. This plugin also has up to date tips and guides on how to run a business & different loans available. Use it whenever a user asks something regarding small businesses or Wells Fargo.",
-  "description_for_human": "Your personall small business helper.",
+  "description_for_human": "Your personal small business assistant that provides you up to date information.",
   "auth": {
     "type": "user_http",
     "authorization_type": "bearer"
