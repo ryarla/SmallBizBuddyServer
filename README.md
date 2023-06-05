@@ -6,7 +6,7 @@ your OpenAI API key. The bearer token for your retrieval plugin server will be
 generated automatically. You can find it in the "Environment" tab on the [Render
 dashboard](https://dashboard.render.com) page for your server.
 
-<a href="https://render.com/deploy?repo=["https://github.com/ryarla/SmallBizBuddyServer/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/ryarla/SmallBizBuddyServer/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" />
 </a>
 <br><br>
