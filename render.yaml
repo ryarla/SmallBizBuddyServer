@@ -1,7 +1,7 @@
 services:
   # FastAPI Server
   - type: web
-    name: retrieval-plugin-server 
+    name: SmallBizBuddyServer
     region: oregon
     plan: starter
     env: docker
